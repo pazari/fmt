@@ -15,7 +15,7 @@ with open('facility_management/__init__.py', 'rb') as f:
 setup(
 	name='facility_management',
 	version=version,
-	description='ERPNext app for managing facilities',
+	description='app for managing facilities',
 	author='9T9IT',
 	author_email='info@9t9it.com',
 	packages=find_packages(),
